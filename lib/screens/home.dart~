@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../constants/colors.dart';
-import '../widgets/todo_item.dart';
+import 'package:flutter_projects/constants/colors.dart';
+import 'package:flutter_projects/widgets/todo_item.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});
